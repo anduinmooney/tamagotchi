@@ -1,0 +1,17 @@
+{
+  "name": "tamagotchi",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Anduin Mooney"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
